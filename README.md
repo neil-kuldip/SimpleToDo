@@ -4,7 +4,7 @@
 
 Submitted by: **Neil Kuldip**
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -32,7 +32,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+* Learning Java syntax
+* Troubleshooting FileUtil imports
+* Applying constraints to the features in the user interface
 
 ## License
 
